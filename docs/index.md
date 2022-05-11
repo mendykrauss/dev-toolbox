@@ -2,4 +2,4 @@
 
 |App|Description|
 | --- | --- |
-| JSONlint | json |
+| [JSONLint](https://jsonlint.com/) | JSONLint is a validator and reformatter for JSON. |

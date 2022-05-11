@@ -1,3 +1,7 @@
+<div>
+    <img src="./images/logo-icon.jpg" width="25%" alt="Logo" />
+</div>
+
 ## Welcome to dev-toolbox
 
 |App|Description|

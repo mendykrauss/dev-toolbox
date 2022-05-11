@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: Dev-Toolbox - All tools a developer might need
+logo: './images/logo.jpg'
+logo-icon: './images/logo-icon.jpg'
+favicon: './images/favicon.ico'

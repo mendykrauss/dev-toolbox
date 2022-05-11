@@ -1,8 +1,9 @@
-<div>
+<div align=center>
     <img src="./images/logo-icon.jpg" width="25%" alt="Logo" />
 </div>
-
-## Welcome to dev-toolbox
+<div align=center>
+    <h2>Welcome to dev-toolbox</h2>
+</div>
 
 |App|Description|
 | --- | --- |

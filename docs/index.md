@@ -1,7 +1,3 @@
-{% if site.google_analytics %}
-{% include analytics.html %}
-{% endif %}
-
 <div align=center>
     <a href="/">
         <img src="./images/logo-icon.jpg" width="25%" alt="Logo"/>

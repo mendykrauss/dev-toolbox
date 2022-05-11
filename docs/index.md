@@ -1,5 +1,5 @@
 ## Welcome to dev-toolbox
 
-App|Description|
+|App|Description|
 | --- | --- |
 | JSONlint | json |

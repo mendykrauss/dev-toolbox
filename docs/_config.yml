@@ -3,12 +3,12 @@ title: Dev-Toolbox - All tools a developer might need
 logo: './images/logo.jpg'
 logo-icon: './images/logo-icon.jpg'
 favicon: './images/favicon.ico'
-google-analytics: G-J1C06FN5B9
-locale:       "en"
+google-analytics: 'G-J1C06FN5B9'
+locale: "en"
 
 # About/contact
 author:
-  name:       Mendy Krauss
+  name: Mendy Krauss
 
 #Others
 markdown: kramdown

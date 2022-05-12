@@ -12,6 +12,6 @@ title: Home
     <h2>Welcome to dev-toolbox</h2>
 </div>
 
-|App|Description|
-| --- | --- |
-| [JSONLint](https://jsonlint.com/) | JSONLint is a validator and reformatter for JSON. |
+|App|Description|Free|Paid|
+| --- | --- | --- | --- |
+| [JSONLint](https://jsonlint.com/) | JSONLint is a validator and reformatter for JSON. | Yes | No |

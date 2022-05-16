@@ -12,7 +12,7 @@ title: Home
     <h2>Welcome to dev-toolbox</h2>
 </div> -->
 
-|App|Description|Free|Paid|Has API|
+|App|Description|Free|Paid|Has API|<br>
 | --- | --- | --- | --- | --- |
 {% for tool in site.data.tools %}
 | <a href="{{ tool.Link }}" target="_blank">{{ tool.App }}</a> | {{ tool.Description }} | {{ tool.Free }} | {{ tool.Paid }} | {{ tool.Has_API }} |

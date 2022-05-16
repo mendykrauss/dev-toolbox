@@ -27,14 +27,19 @@ App
   {% for row in site.data.tools %}
     {% if forloop.first %}
     <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
+        <th>App</th>
+        <th>Description</th>
+        <th>Free</th>
+        <th>Paid</th>
+        <th>Has API</th>
     </tr>
     {% endif %}
-
     {% tablerow pair in row %}
-      {{ pair[1] }}
+        <td><a href="{{ pair[1].Link }}">{{ pair[1].App }}</a></td>
+        <td>{{ pair[1].Description }}</td>
+        <td>{{ pair[1].Free }}</td>
+        <td>{{ pair[1].Paid }}</td>
+        <td>{{ pair[1].Has_API }}</td>
     {% endtablerow %}
   {% endfor %}
 </table>

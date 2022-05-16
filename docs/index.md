@@ -15,3 +15,4 @@ title: Home
 |App|Description|Free|Paid|Has API|
 | --- | --- | --- | --- | --- |
 | [GitHub](https://github.com/) |  Global platform for developer collaboration. | Yes | Yes | Yes |
+| [GeoSearch](https://geosearch.dev/) |  Convert any data to GeoData. | Yes | No | Yes |

@@ -14,4 +14,7 @@ title: Home
 
 |App|Description|Free|Paid|Has API|
 | --- | --- | --- | --- | --- |
-| [GitHub](https://github.com/) |  Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world. . | Yes | Yes | Yes |
+<!-- | [GitHub](https://github.com/) |  Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world. . | Yes | Yes | Yes | -->
+{% for tool in site.data.tools %}
+| [{{ tool.App }}] {{ (tool.Link) }} | {{ tool.Description }} | {{ tool.Free }} | {{ tool.Paid }} | {{ tool.Has_API }} |
+{% endfor %}

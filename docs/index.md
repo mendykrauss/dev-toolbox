@@ -35,11 +35,13 @@ App
     </tr>
     {% endif %}
     {% tablerow pair in row %}
+    <tr>
         <td><a href="{{ pair[1].Link }}">{{ pair[1].App }}</a></td>
         <td>{{ pair[1].Description }}</td>
         <td>{{ pair[1].Free }}</td>
         <td>{{ pair[1].Paid }}</td>
         <td>{{ pair[1].Has_API }}</td>
     {% endtablerow %}
+    <tr>
   {% endfor %}
 </table>

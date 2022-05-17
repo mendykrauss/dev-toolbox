@@ -20,3 +20,5 @@ title: Home
 | [Base64 Decode](https://www.base64decode.org/) | Super handy online tool to decode your data. | Yes | No | No |
 | [JSON Minify](https://www.minifyjson.org/) | Super handy online tool to minify a JSON object. | Yes | No | No |
 | [JSON Beautify](https://www.beautifyjson.org/) | Super handy online tool to beautify a JSON object. | Yes | No | No |
+| [iHateRegex](https://ihateregex.io/) | A regex cheatsheet for the haters. | Yes | No | No |
+| [regex101](https://regex101.com/) | One of the largest regex testing services in the world. | Yes | No | No |
